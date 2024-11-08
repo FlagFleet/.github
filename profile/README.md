@@ -1,12 +1,15 @@
-## Hi there 👋
 
-<!--
+![GitHub followers](https://img.shields.io/github/followers/FlagFleet)
+![GitHub Org's stars](https://img.shields.io/github/stars/FlagFleet)
 
-**Here are some ideas to get you started:**
+[FlagFleet](https://github.com/FlagFleet) is a powerful, lightweight, and completely free open-source feature flag and A/B testing platform built with Vue.js and Python. Designed for developers who need flexible feature management.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Key Features
+
+- 🎯 Simple feature flag management with real-time updates
+- 🧪 A/B testing and experimentation framework
+- 📊 Built-in analytics dashboard
+- 🔌 Easy integration 
+- 🌍 Multi-custom-environment support (dev, staging, prod, wathever you want)
+- 👥 Team collaboration features
+- 🔒 Role-based access control
